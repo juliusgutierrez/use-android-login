@@ -3,4 +3,6 @@
     <string name="hello_world">Hello World</string>
     <string name="sign_in">Sign In</string>
     <string name="password" />
+    <string name="welcome_msg">Welcome to second page</string>
+    <string name="attempt">Attempt No. </string>
 </resources>
